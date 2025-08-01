@@ -5,6 +5,7 @@ A user-friendly machine learning application developed with **Streamlit**, desig
 ---
 
 📌 **Project Summary**
+
 Customer segmentation plays a vital role in understanding consumer behavior and creating effective, targeted marketing campaigns. This web app offers an interactive platform to explore customer groupings based on income and spending patterns.
 
 With a simple CSV file upload, the app allows you to:
