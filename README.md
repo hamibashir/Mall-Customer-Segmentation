@@ -1,4 +1,4 @@
-🛍️ Mall Customer Segmentation Web App
+# 🛍️ Mall Customer Segmentation Web App
 
 A user-friendly machine learning application developed with **Streamlit**, designed to segment mall customers by analyzing their **Annual Income** and **Spending Score** using **K-Means** and **DBSCAN** clustering algorithms.
 
